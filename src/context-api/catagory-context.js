@@ -7,7 +7,7 @@ export const Catagory_Create_Context=React.createContext();
 
 export function Catagory_Provider(props) {
 
-    const [catagory,setcatagory]=useState("food");
+    const [catagory,setcatagory]=useState("laptops");
 
 
   return (
